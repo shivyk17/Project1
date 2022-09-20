@@ -4,7 +4,7 @@
 
         registry = "shivayk/k8s" 
 
-        registryCredential = 'docker-account' 
+        registryCredential = 'dockerhub' 
 
         dockerImage = '' 
 
